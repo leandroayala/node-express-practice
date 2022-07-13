@@ -1,6 +1,6 @@
 //Using built-in modules from node (core)
 
-//OS - Operacional System
+//OS - Operacional System module 
 const os = require('os');
 
 //Information current user
